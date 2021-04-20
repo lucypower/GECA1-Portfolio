@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\lcypw\source\repos\GitHub\Project14_10numbers\Project14_10numbers\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\lcypw\source\repos\GitHub\Project14_10numbers\Project14_10numbers\Source.cpp(17,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Project14_10numbers.vcxproj -> C:\Users\lcypw\source\repos\GitHub\Project14_10numbers\Debug\Project14_10numbers.exe
