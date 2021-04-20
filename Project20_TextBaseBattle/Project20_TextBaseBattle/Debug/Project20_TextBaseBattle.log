@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\lcypw\source\repos\GitHub\Project20_TextBaseBattle\Project20_TextBaseBattle\Source.cpp(113): warning C4715: 'playState': not all control paths return a value
+  Project20_TextBaseBattle.vcxproj -> C:\Users\lcypw\source\repos\GitHub\Project20_TextBaseBattle\Debug\Project20_TextBaseBattle.exe
