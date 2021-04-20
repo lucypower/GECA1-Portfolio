@@ -1,0 +1,10 @@
+Lucy,9
+Joe,7
+Harvey,5
+Theo,2
+Kiel,9
+Astijus,4
+Emma,7
+Alex,4
+Steve,10
+Ewan,8
